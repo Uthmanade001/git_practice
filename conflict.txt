@@ -1,1 +1,1 @@
-line from main branch
+This is a line for testing merge conflict
